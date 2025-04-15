@@ -1,23 +1,27 @@
 [
     {
-        "dates": "June 2018 · Present",
-        "role": "Front-end Engineer",
-        "company": "Full Truck Alliance",
-        "description": "Responsible for customer service and CRM system front-end development.",
-        "logo": "/assets/images/experiences/fta.ico"
+        "Skill": "Languages",
+        "description": "Python, C/C++, HTML/CSS, Bash/Shell scripting, Go (Currently Learning)",
+        "logo": "/assets/images/skills/language.svg"
     },
     {
-        "dates": "July 2015 · June 2018",
-        "role": "Front-end Engineer",
-        "company": "YOHO!",
-        "description": "Responsible for mobile front-end development of e-commerce platform.",
-        "logo": "/assets/images/experiences/yoho.ico"
+        "Skill": "Frameworks",
+        "description": "Flask, FastAPI, Wazuh, Metasploit, MISP",
+        "logo": "/assets/images/skills/framwork.svg"
     },
     {
-        "dates": "September 2014 · July 2015 ",
-        "role": "Node.JS Developer",
-        "company": "WuLian",
-        "description": "Intern, involved in the development of Internet of Things cloud systems.",
-        "logo": "/assets/images/experiences/wulian.ico"
+        "Skill": "Developer Tools",
+        "description": "Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm",
+        "logo": "/assets/images/skills/devtools.svg"
+    },
+    {
+        "Skill": "Security Tools",
+        "description": "Wireshark, Metasploit, Kali Linux, Nmap, Ffuf, Wazuh, MISP, Frida, Objection, Ghidra, Jadx, Burp Suite, FTK, Autopsy, Eric Zimmerman Tools, IDA, Nessus, OWASP Zap, OpenVAS",
+        "logo": "/assets/images/skills/sectools.svg"
+    },
+    {
+        "Skill": "Libraries",
+        "description": "Pandas, NumPy, Matplotlib, PyTorch, Seaborn, Scikit-learn, Requests, BeautifulSoup, Scapy, Cryptography, Pyshark, Tkinter, hashlib, bcrypt, pefile, Yara-python",
+        "logo": "/assets/images/skills/libraries.svg"
     }
 ]

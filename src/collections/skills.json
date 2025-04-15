@@ -21,7 +21,7 @@
     },
     {
         "Skill": "Libraries",
-        "description": "Pandas, NumPy, Matplotlib, PyTorch, Seaborn, Scikit-learn, Requests, BeautifulSoup, Scapy, Cryptography, Pyshark, Tkinter, hashlib, bcrypt, pefile, Yara-python",
+        "description": "Pandas, NumPy, Matplotlib, Seaborn, Requests, BeautifulSoup, Scapy, Cryptography, Pyshark, Tkinter, hashlib, bcrypt, pefile, Yara-python",
         "logo": "/assets/images/skills/libraries.svg"
     }
 ]
